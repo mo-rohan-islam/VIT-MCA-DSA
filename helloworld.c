@@ -5,7 +5,7 @@ void print(const char *message);
 
 int main () {
     print("Hello World!");
-    return 1;
+    return 0;
 }
 
 void print(const char *message) {
